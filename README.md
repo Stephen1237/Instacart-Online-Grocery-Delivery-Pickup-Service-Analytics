@@ -1,0 +1,2 @@
+# Instacart-Online-Grocery-Delivery-Pickup-Service-Analytics
+This Business Intelligence capstone project analyzes Instacart's sales and operations using SQL and Power BI. It uncovers insights into revenue, customer behavior, product performance, demand trends, and profitability, providing data-driven recommendations to optimize inventory, staffing, marketing, and overall business performance and growth.
