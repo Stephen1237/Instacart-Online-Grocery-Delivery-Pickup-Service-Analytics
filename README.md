@@ -1,5 +1,6 @@
 # Instacart-Online-Grocery-Delivery-Pickup-Service-Analytics
 This Business Intelligence capstone project analyzes Instacart's sales and operations using SQL and Power BI. It uncovers insights into revenue, customer behavior, product performance, demand trends, and profitability, providing data-driven recommendations to optimize inventory, staffing, marketing, and overall business performance and growth.
+
 ---
 
 # Instacart Online Grocery Delivery & Pickup Service Analytics
@@ -162,11 +163,11 @@ This visualization examines the relationship between customer demand and profita
 
 | Product | Approx. Revenue |
 |----------|----------------:|
-| Tender White | ~$10K |
-| Chicken With | ~$10K |
-| Chili With Beans | ~$10K |
-| Vanilla Tang | ~$10K |
-| Mediterranean | ~$10K |
+| Tender White | $10K |
+| Chicken With | $10K |
+| Chili With Beans | $10K |
+| Vanilla Tang | $10K |
+| Mediterranean | $10K |
 
 ## Key Findings
 
