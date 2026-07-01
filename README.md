@@ -1,8 +1,5 @@
 # Instacart-Online-Grocery-Delivery-Pickup-Service-Analytics
 This Business Intelligence capstone project analyzes Instacart's sales and operations using SQL and Power BI. It uncovers insights into revenue, customer behavior, product performance, demand trends, and profitability, providing data-driven recommendations to optimize inventory, staffing, marketing, and overall business performance and growth.
-
-Below is a comprehensive, portfolio-ready **Markdown** project report based on your uploaded presentation. It is structured to meet professional Business/Data Analyst documentation standards and is suitable for **GitHub, Notion, Medium, or a professional portfolio**.
-
 ---
 
 # Instacart Online Grocery Delivery & Pickup Service Analytics
@@ -114,7 +111,6 @@ These datasets were integrated using SQL joins to generate meaningful business i
 
 - **SQL (PostgreSQL)** – Data extraction and business analysis
 - **Power BI** – Dashboard development and data visualization
-- **Excel/CSV** – Data preparation
 - **Data Modeling** – Relationship building between tables
 
 ---
@@ -240,13 +236,13 @@ Optimizing workforce scheduling and delivery capacity during peak hours can impr
 | Month | Revenue |
 |-------:|---------:|
 | Month 0 | $14.6M |
-| Month 1 | ~$13.8M |
+| Month 1 | $13.8M |
 | Month 2 | $14.6M |
 | Month 3 | $12.6M |
 | Month 4 | $12.6M |
-| Month 5 | ~$13.1M |
+| Month 5 | $13.1M |
 | Month 6 | $12.6M |
-| Month 7 | ~$13.0M |
+| Month 7 | $13.0M |
 
 ## Key Findings
 
